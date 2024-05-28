@@ -15,10 +15,3 @@ export const SUPPORTED_LANGUAGES = [
 ]
 
 
-export const API_OPTIONS = {
-    method: 'GET',
-    headers: {
-      accept: 'application/json',
-      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwODYyZTNkNjVlNjdkNDE4YTUwOWRhZTdmYjQwMjNkMCIsInN1YiI6IjY2NGYxNjBiNDMxNjhhODYyOTM0ZDVmZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.kl1pjkylzrkgf2C5t2yUSPPc_aFHveOqdo0I35i3jiI'
-    }
-  };
