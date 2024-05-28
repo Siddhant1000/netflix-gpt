@@ -27,8 +27,8 @@ const Browse = () => {
         <GPTSearch /> 
       ):(
         <>
-        <GPTSearch />
-        <MainContainer />
+        <MainContainer/>
+        <SecondaryContainer />
         </>
       )}
       

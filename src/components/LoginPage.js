@@ -5,7 +5,7 @@ import {createUserWithEmailAndPassword,signInWithEmailAndPassword, updateProfile
 import {auth} from "../utils/firebase";
 import { useDispatch } from 'react-redux';
 import { addUser } from '../utils/userSlice';
-import { PHOTO_AVATAR } from '../utils/constant';
+import { BACKGROUND_IMG, PHOTO_AVATAR } from '../utils/constant';
 
 
 const LoginPage = () => {
@@ -90,7 +90,7 @@ const LoginPage = () => {
     <div>
       <Header />
       <div className="absolute">
-        <img className="w-[1950px] h-[953px]" src="https://miro.medium.com/v2/resize:fit:1400/1*5lyavS59mazOFnb55Z6znQ.png?w=1920&h=1080" alt="img"></img>
+        <img className="w-[1950px] h-[953px]" src={BACKGROUND_IMG} alt="img"></img>
       </div>
       <form onSubmit={(e)=>e.preventDefault()}
        className="w-[450px] h-[600px] p-12 bg-black bg-opacity-70 absolute my-36 mx-auto right-0 left-0 font-sans">
