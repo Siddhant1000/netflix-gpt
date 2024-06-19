@@ -69,35 +69,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+Screenshot for the project 
 
 
-# Netflix app
--Create React App
--Configured Tailwind CSS and inst alled it succesfully by applying the commands.
--Header
--Routing of our App
--Login form
--Sign Up form 
--Form Validation
--useRef Hook
--Form Validation
--Firebase setup
--Deploying our app to production
--Create SignUp user account 
--Created Redux Store with userSlice
+![image](https://github.com/Siddhant1000/netflix-gpt/assets/97011272/0be9dbbc-1bfc-48c8-a1c2-83195f1bc1c8)
+![image](https://github.com/Siddhant1000/netflix-gpt/assets/97011272/1a1059cb-ea08-4dc3-805b-423480800ffe)
+![image](https://github.com/Siddhant1000/netflix-gpt/assets/97011272/ce794b08-84f9-47ea-8853-b3edfbd7b1f7)
+![image](https://github.com/Siddhant1000/netflix-gpt/assets/97011272/83c029f1-2f77-478b-9c01-07dd64e72fa6)
 
-# Features
--Login/SignUp page
- -Sign In / Sign Up Form
- -redirect to browse page
--Browse(after authentication)
- -Header
- -Main movie
-  -Trailer in bg
-  -Title and Description
-  -Movie Suggestions
-   - MovieLists * N
 
--Netflix GPT
- -search bar
- -movie suggestions
+
+Using the Gpt Recommendation Engine 
+
+
+
+![image](https://github.com/Siddhant1000/netflix-gpt/assets/97011272/a01b3b44-4cfc-40a4-a543-d452e537b060)
+![image](https://github.com/Siddhant1000/netflix-gpt/assets/97011272/bf2fdad6-1721-47d0-a23b-3ab50fc9122d)
